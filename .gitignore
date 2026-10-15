@@ -1,0 +1,8 @@
+target/
+build/
+.gradle/
+*.log
+spring-error.txt
+.idea/
+.vscode/
+
